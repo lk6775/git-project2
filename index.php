@@ -14,6 +14,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
     protected $foobar;
 
     /**
+* neue Zeile lol
      * @param \Magento\Backend\App\Action\Context $context
      * @param \Magento\Framework\Controller\Result\RawFactory $resultRawFactory
      */
@@ -27,7 +28,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 
     /**
      * Retrieve response for deniedIframeAction()
-     *
+     * noch eine Änderung
      * @return string
      */
     protected function _getDeniedIframe()
