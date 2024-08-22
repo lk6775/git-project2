@@ -6,6 +6,8 @@
  * woldummys 2.comment
   * woldummys 3.comment
  */
+ 
+die("sleeping");
 <<<<<<< HEAD
  die("sad");
 =======
