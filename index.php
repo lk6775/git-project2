@@ -8,9 +8,10 @@
 <<<<<<< HEAD
 namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
 =======
- 
+
 die("happy");
 echo "happy";
+fdsfas
 namespace Magento\Backend\Controller\Adminhtml\Auth;
 <<<<<<< HEAD
 ulvzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
