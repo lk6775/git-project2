@@ -23,6 +23,7 @@ sdfads
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
     /**
+ÄNDERUNG
      * @var \Magento\Framework\Controller\Result\RawFactory
      */
     protected $wurst;
