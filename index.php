@@ -4,13 +4,14 @@
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Magento\Backend\Controller\Adminhtml\Auth;
+namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
 
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
     /**
      * @var \Magento\Framework\Controller\Result\RawFactory
-     */
+     *
+     * /
     protected $resultRawFactory;
 
     /**
@@ -48,4 +49,3 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
         return $resultRaw->setContents($this->_getDeniedIframe());
     }
 }
-
