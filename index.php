@@ -42,7 +42,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
      *
      * @return \Magento\Framework\Controller\Result\Raw
      */
-    public function execute()
+    public function foobar()
     {
         /** @var \Magento\Framework\Controller\Result\Raw $resultRaw */
         $resultRaw = $this->resultRawFactory->create();
