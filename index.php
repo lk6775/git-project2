@@ -78,6 +78,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 <<<<<<< HEAD
 <<<<<<< HEAD
 fdsdafa
+isfsd
 =======
 >>>>>>> master
 ||||||| parent of b722c37 (woldummy added comment)
