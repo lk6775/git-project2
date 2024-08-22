@@ -6,7 +6,23 @@
  * woldummys 2.comment
   * woldummys 3.comment
  */
+<<<<<<< HEAD
  die("sad");
+=======
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lllllllllllllllllllllllllluhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> b9055fe (ukuftuf)
 <<<<<<< HEAD
 namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
 =======
