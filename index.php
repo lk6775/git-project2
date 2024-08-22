@@ -7,7 +7,7 @@
   * woldummys 3.comment
  */
  
-die("sleeping");
+die("happy");
 <<<<<<< HEAD
  die("sad");
 =======
