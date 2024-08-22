@@ -4,11 +4,12 @@
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  * woldummys 2.comment
+  * woldummys 3.comment
  */
 <<<<<<< HEAD
 namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
 =======
- 
+
 die("happy");
 echo "happy";
 namespace Magento\Backend\Controller\Adminhtml\Auth;
