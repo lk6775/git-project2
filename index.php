@@ -1,7 +1,7 @@
 <?php
 /**
- * woldummy changed this and that
- * Copyright © Magento, Inc. All rights reserved.
+ * Mandeep branch 2
+ * woldummy changed th Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  * woldummys 2.comment
   * woldummys 3.comment
