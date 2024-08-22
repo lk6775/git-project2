@@ -4,6 +4,8 @@
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
+ 
+die("happy");
 namespace Magento\Backend\Controller\Adminhtml\Auth;
 
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
