@@ -6,7 +6,7 @@
  * woldummys 2.comment
   * woldummys 3.comment
  */
-// clean ist up 
+
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
     /**
