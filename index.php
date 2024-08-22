@@ -1,6 +1,6 @@
 <?php
 /**
- *
+ * woldummy changed this and that
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  * woldummys 2.comment
@@ -75,6 +75,11 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
     }
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 fdsdafa
 =======
 >>>>>>> master
+||||||| parent of b722c37 (woldummy added comment)
+
+=======
+>>>>>>> b722c37 (woldummy added comment)
