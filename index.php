@@ -56,7 +56,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
     protected $foobar;
 
 =======
-
+die("cute")
 >>>>>>> origin/master
     /**
 * neue Zeile lol
