@@ -10,9 +10,14 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
     /**
      * @var \Magento\Framework\Controller\Result\RawFactory
+<<<<<<< HEAD
      *
      * /
     protected $resultRawFactory;
+=======
+     */
+    protected $foobar;
+>>>>>>> bae1f4a (deploy version 2)
 
     /**
      * @param \Magento\Backend\App\Action\Context $context
