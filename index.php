@@ -9,7 +9,7 @@
 <<<<<<< HEAD
 namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
 =======
- 
+
 die("happy");
 echo "happy";
 namespace Magento\Backend\Controller\Adminhtml\Auth;
@@ -24,7 +24,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
     /**
      * @var \Magento\Framework\Controller\Result\RawFactory
      */
-    protected $foobar;
+    protected $wurst;
 
 ||||||| a6815f9
 
