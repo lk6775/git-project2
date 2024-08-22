@@ -49,4 +49,4 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
         return $resultRaw->setContents($this->_getDeniedIframe());
     }
 }
-
+fdsdafa
