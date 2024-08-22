@@ -13,6 +13,10 @@ die("happy");
 echo "happy";
 namespace Magento\Backend\Controller\Adminhtml\Auth;
 <<<<<<< HEAD
+ulvzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+bbbbbbbbbbbbbbbbbbbbbbbbbb
+=======
+<<<<<<< HEAD
 sdfads
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
@@ -23,6 +27,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 
 ||||||| a6815f9
 
+>>>>>>> master
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
     /**
@@ -69,3 +74,7 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
         return $resultRaw->setContents($this->_getDeniedIframe());
     }
 }
+<<<<<<< HEAD
+fdsdafa
+=======
+>>>>>>> master
