@@ -6,37 +6,7 @@
  * woldummys 2.comment
   * woldummys 3.comment
  */
-<<<<<<< HEAD
- die("sad");
-=======
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- lllllllllllllllllllllllllluhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
->>>>>>> b9055fe (ukuftuf)
-<<<<<<< HEAD
-namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
-=======
-
-die("happy");
-echo "happy";
-fdsfas
-namespace Magento\Backend\Controller\Adminhtml\Auth;
-<<<<<<< HEAD
-ulvzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-bbbbbbbbbbbbbbbbbbbbbbbbbb
-=======
-<<<<<<< HEAD
-sdfads
+// clean ist up 
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
     /**
