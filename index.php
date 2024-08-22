@@ -5,7 +5,7 @@
  * See COPYING.txt for license details.
  */
 namespace Magento\Backend\Controller\Adminhtml\Auth;
-
+sdfads
 class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 {
     /**
