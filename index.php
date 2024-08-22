@@ -7,6 +7,8 @@
  * woldummys 2.comment
   * woldummys 3.comment
  */
+ 
+die("happy");
 <<<<<<< HEAD
  die("sad");
 =======
