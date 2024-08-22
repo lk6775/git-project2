@@ -3,6 +3,7 @@
  *
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
+ * woldummys 2.comment
  */
 namespace Magento\Backend\Controller\Adminhtml\Auth;
 
@@ -48,4 +49,3 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
         return $resultRaw->setContents($this->_getDeniedIframe());
     }
 }
-
