@@ -29,6 +29,7 @@ namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
 
 die("happy");
 echo "happy";
+fdsfas
 namespace Magento\Backend\Controller\Adminhtml\Auth;
 <<<<<<< HEAD
 ulvzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
@@ -96,9 +97,10 @@ class DeniedIframe extends \Magento\Backend\Controller\Adminhtml\Auth
 <<<<<<< HEAD
 <<<<<<< HEAD
 fdsdafa
+isfsd
 =======
 >>>>>>> master
 ||||||| parent of b722c37 (woldummy added comment)
 
 =======
->>>>>>> b722c37 (woldummy added comment)
+fsdfasd>>>>>>> b722c37 (woldummy added comment)
