@@ -5,6 +5,7 @@
  * See COPYING.txt for license details.
  * woldummys 2.comment
  */
+ die("sad");
 <<<<<<< HEAD
 namespace gitCheckout Magento\Backend\Controller\Adminhtml\Auth;
 =======
